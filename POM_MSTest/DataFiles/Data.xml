@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Automation>
+    <Execution>            
+        <Login>
+            <url>http://adactinhotelapp.com/</url>
+            <username>AmirImam</username>
+            <password>AmirImam</password>
+            <message>Welcome to Adactin Group of Hotels</message>
+            <locator>welcome_menu</locator>                
+        </Login>    
+    </Execution>
+</Automation>
